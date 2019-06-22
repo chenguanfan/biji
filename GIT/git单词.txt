@@ -1,0 +1,20 @@
+第一章
+init	初始化
+add	增加
+config	配置
+commit	提交 
+log	日志
+reset	重置(版本回退)
+hard	硬的
+mixed	混合的
+soft	软的
+
+第二章
+branch		分支
+checkout	切换
+master		主要的
+merge		合并 
+
+
+
+

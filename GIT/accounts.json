@@ -1,0 +1,36 @@
+[
+  {
+    "$id": "9",
+    "$type": "SourceTree.Api.Host.Identity.Model.IdentityAccount, SourceTree.Api.Host.Identity",
+    "IsDefault": false,
+    "Authenticate": true,
+    "HostInstance": {
+      "$id": "10",
+      "$type": "SourceTree.Host.Atlassianaccount.AtlassianAccountInstance, SourceTree.Host.AtlassianAccount",
+      "Host": {
+        "$id": "11",
+        "$type": "SourceTree.Host.Atlassianaccount.AtlassianAccountHost, SourceTree.Host.AtlassianAccount",
+        "Id": "atlassian account"
+      },
+      "BaseUrl": "https://id.atlassian.com/"
+    },
+    "Credentials": {
+      "$id": "12",
+      "$type": "SourceTree.Api.Account.Basic.BasicAuthCredentials, SourceTree.Api.Account.Basic",
+      "Username": "huodeming1@163.com",
+      "Email": "huodeming1@163.com",
+      "AvatarURL": null,
+      "AuthenticationScheme": {
+        "$type": "SourceTree.Api.Account.Basic.BasicAuthAuthenticationScheme, SourceTree.Api.Account.Basic",
+        "Value": "用户名/密码",
+        "Name": "Basic",
+        "Description": "密码",
+        "HeaderValuePrefix": "Basic",
+        "UsernameIsRequired": true
+      },
+      "Id": "huodeming1@163.com",
+      "EmailHash": "$2b$11$wgr1TJNVKwiK/dQBd3HKm.IffN4.Ag6NJAxAUWmQKR0A2aXWJp3s.",
+      "DisplayName": null
+    }
+  }
+]

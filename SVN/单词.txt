@@ -1,0 +1,9 @@
+checkout	检验	切可奥特
+create		创建	
+svn		svn
+version		版本	微啊sion
+revision	修改 	瑞微sion
+update		更新
+add		增加	啊的
+commit		把...托付给;提交(犯罪)	康密特
+log		日志	闹割
